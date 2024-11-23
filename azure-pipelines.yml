@@ -1,4 +1,4 @@
-pool: MyPool
+pool: MyAgent
   vmImage: 'ubuntu-20.04'
 
 variables:
